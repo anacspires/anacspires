@@ -1,7 +1,7 @@
 ## Hi there 👋
 I recently fell in love with the art of coding that's why I'm looking forward to learn more about it so I can become a FullStack Developer. 💜
 
-- 💻 I’m currently working as a designer and web developer, both as a freelancer.
+- 💻 I’m currently working as a designer and Front-end developer, both as a freelancer.
 - 📱 I’m currently learning  Node.js, ReactJS and React Native.
 - 💜 I’m looking to collaborate on Front-end projects with JavaScript.
 - 😊 I can help with CSS, HTML, JavaScript and design.
