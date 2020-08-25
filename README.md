@@ -6,6 +6,6 @@ I recently fell in love with the art of coding that's why I'm looking forward to
 - 💜 I’m looking to collaborate on Front-end projects with JavaScript.
 - 😊 I can help with CSS, HTML, JavaScript and design.
 - 💬 I'm in love with technology, Netflix and games like LoL and the Final Fantasy franchise.
-- ✉️ You can contact me: [![Linkedin Badge](https://img.shields.io/badge/-DanteFerrari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ferrarid/)](https://www.linkedin.com/in/ferrarid/) | [![Outlook Badge](https://img.shields.io/badge/-dante.fp@outlook.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:dante.fp@outlook.com)](mailto:dante.fp@outlook.com)
+- ✉️ You can contact me: [![Linkedin Badge](https://img.shields.io/badge/-DanteFerrari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ferrarid/)](https://www.linkedin.com/in/ferrarid/) | [![Outlook Badge](https://img.shields.io/badge/-dante.fp@outlook.com-c14438?style=flat-square&logo=Outlook&logoColor=0078D4&link=mailto:dante.fp@outlook.com)](mailto:dante.fp@outlook.com)
 
 
